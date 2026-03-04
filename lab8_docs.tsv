@@ -1,0 +1,1001 @@
+doc_id	text	label
+1r2bguu	Alert flooding due to share.google tagged as malicious	cybersecurity
+1r2ay7q	Security Researcher - How strong do my Python skills need to be? And where should I focus next?	cybersecurity
+1r2a5na	Masters Pogram: UC Berkley or SANS Institute	cybersecurity
+1r29fue	Best Tools for Internal Phishing Simulations	cybersecurity
+1r28i13	Securing 5 On-Prem VMs with Azure Arc + Defender for Servers (Plan 2) - Best Approach?	cybersecurity
+1r28avj	For teams deploying AI agents with tool use in production - what operations do you gate behind human approval?	cybersecurity
+1r289lj	I built an agentic MCP server that automates the web app pentesting	cybersecurity
+1r27swd	SSAS Security Baselines	cybersecurity
+1r27ra5	Digital asset theft hit $3.4B in 2025 — our new research shows weak policy engines, not perimeter breaches, are driving most losses	cybersecurity
+1r27ng4	Hackers breach SmarterTools network using flaw in its own software	cybersecurity
+1r26yiq	How are you enabling safe, practical AI use in software engineering today?	cybersecurity
+1r25056	Cyber Security Certs Advise	cybersecurity
+1r24set	Notepad's new Markdown powers served with a side of RCE	cybersecurity
+1r24per	15% of OpenClaw skills contain malicious instructions - the npm/PyPI pattern is repeating itself in AI agent ecosystems	cybersecurity
+1r24m0n	Vulnerability forecast 2026: The Year Ahead	cybersecurity
+1r249gv	Exploitations during Penetration Testing for Documentation	cybersecurity
+1r242fl	Anyone have this insanely huge urge to get into the industry.	cybersecurity
+1r23yzs	LummaStealer infections surge after CastleLoader malware campaigns	cybersecurity
+1r23bk1	[Showcase] PassForge v1.2.0 - Extreme 1024-Char Limits, 64-Word Passphrases, and 100% PWA Sync	cybersecurity
+1r21w44	CVE-2026-20841: Windows Notepad Remote Code Execution Vulnerability	cybersecurity
+1r21sv4	We analyzed 57,898 exposed assets across 1,722 European retail companies. 19% have invalid SSL certificates and the results show retail is "horribly unprepared" for modern cyber threats	cybersecurity
+1r20xv2	Detection/Security Engineering and AI	cybersecurity
+1r1zbg5	Negative lookups for log files	cybersecurity
+1r1yon9	Threat Hunting Training or Certs?	cybersecurity
+1r1yhoq	Phishing Test False Positives	cybersecurity
+1r1xzdj	Offensive security feels large	cybersecurity
+1r1xvu5	Cyber Security Certifications	cybersecurity
+1r1xe13	How secure is open source really?	cybersecurity
+1r1wo1b	Palo Alto Networks Completes Acquisition of CyberArk to Secure the AI Era	cybersecurity
+1r1vmbd	Signature Phishing up 200%	cybersecurity
+1r1uywv	Air-Gapped Network + NAC?	cybersecurity
+1r1uvhh	Nation-State Spyware Is Now Sold on Telegram for Anyone to Buy	cybersecurity
+1r1uu1s	Malicious 7-Zip site distributes installer laced with proxy tool	cybersecurity
+1r1uqfh	Quesma tested AI on backdoored binaries and Claude Opus found 49%	cybersecurity
+1r1sdug	Coupang breach, what "management failure" looks like in auth systems	cybersecurity
+1r1s4oc	Ransomware Gang Data - Now Doubly Enriched	cybersecurity
+1r1r7wi	seqra/seqra: Security-focused static analyzer for Java and Kotlin web applications	cybersecurity
+1r1qu9s	I got tired of maintaining 50+ janky Python scripts for security automation, so I built a visual engine to replace them (Open Source)	cybersecurity
+1r1psut	10 Years as a Tech PM : How do I pivot to Cyber without knowing to code or doing a bootcamp?	cybersecurity
+1r1pqdk	Is Network and Information Security basically cybersecurity or not?	cybersecurity
+1r1p2ij	Joint probe finds 33.67mn accounts affected in Coupang data breach - 매일경제 영문뉴스 펄스(Pulse)	cybersecurity
+1r1orr2	Article Posting on EBR	cybersecurity
+1r1oqpu	Where is AI actually making a real difference in cybersecurity operations today?	cybersecurity
+1r1oi54	How concerned should we be about Discord's new age verification.	cybersecurity
+1r1nkzy	Roles in CyberSecurity Awareness and Education?	cybersecurity
+1r3hv1r	QR Code Phishing (Quishing) – recent cases and defense considerations	cybersecurity
+1r3h4ko	Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy - Again	cybersecurity
+1r3bclw	how far are we from deepfakes being as common as email phishing?	cybersecurity
+1r3a5g0	Exploiting Reversing (ER) series: article 06 | A Deep Dive Into Exploiting a Minifilter Driver (N-day)	cybersecurity
+1r38ati	MSP and cyber security in Houston	cybersecurity
+1r37gl5	AI in cybersecurity is mostly turd polishing - Fight me	cybersecurity
+1r37bir	Secure way to manage endpoint admin accounts without PAM?	cybersecurity
+1r3410l	Apple patches decade-old iOS zero-day exploited in the wild	cybersecurity
+1r340l8	Theoretical training during sabbatical	cybersecurity
+1r33zy1	Senegalese Data Breaches Expose Lack of 'Security Maturity'	cybersecurity
+1r33tpb	SIEM Maturity Framework - aiding signal vs noise	cybersecurity
+1r33pse	State-Backed Hackers Weaponize Google Gemini Across Cyberattack Lifecycles	cybersecurity
+1r33nan	Is MFA for On-Prem Servers Necessary in a Tiered AD environment	cybersecurity
+1r33ku0	Cyber Security Gap Analysis Tools / Templates	cybersecurity
+1r33h3u	A Linguistic Prompt Injection Case Study on Llama 4: Procedural Leakage and Security Contradictions in Large Language Models	cybersecurity
+1r31g0d	Frigate - CVE-2026-25643 - Authenticated Remote Command Execution (RCE) and Container Escape	cybersecurity
+1r31eme	fireflies.ai note taking app housing biometrics and voice prints.	cybersecurity
+1r30wme	ClawHub skills are the new npm/PyPI malware vector - 15% malicious rate found	cybersecurity
+1r30hqn	What New York Cyber Security Events are worth going to?	cybersecurity
+1r2z9ce	Thoughts on Zirbel Security Process Framework	cybersecurity
+1r2ye7r	What security controls actually work for GenAI apps, and what fails in production?	cybersecurity
+1r2y0f2	is android code security review lucrative like web ?	cybersecurity
+1r2xx2a	Client asking for very detailed security audit	cybersecurity
+1r2xehy	Should I take the certificate	cybersecurity
+1r2x638	Is it worth getting sec+ cert as a high school senior	cybersecurity
+1r2wg8f	Need Help Finding Potential Leaked Company Data	cybersecurity
+1r2utjw	Pen Tests on Sunsetting Technology	cybersecurity
+1r2tguo	How to retrieve detailed Microsoft DLP incident data via API?	cybersecurity
+1r2tgew	Which role helps you learn nore in cybersecurity: SOC Analyst or Pentester?	cybersecurity
+1r2s34o	stop corporate devices from accessing personal Hotspot.	cybersecurity
+1r2s0rj	Does the “Passwordless → Change Password → Passwordless” cycle guarantee session revocation?	cybersecurity
+1r2ritl	New Flair Available: "AI Security"	cybersecurity
+1r2qv3c	Need some advice on final year project for college	cybersecurity
+1r2qt18	Discord’s Age Verification Defeated By a 3D Avatar You Control With a Game Controller	cybersecurity
+1r2q2c4	Cybersecurity final year project ideas	cybersecurity
+1r2q22f	CISA Certification: $800 Exam for an Outdated Auditing Cert or Actually Worth It for Cybersecurity Careers?	cybersecurity
+1r2puj1	How not to get pigeonholed into a regular dev role?	cybersecurity
+1r2pa3g	Over 5K people signed up for my AI and quantum talk	cybersecurity
+1r2p8hs	TrustOS the fully auditable OS	cybersecurity
+1r2ovqb	AI vulnerability Agents are currently all noise and no signal. Am I expecting too much, or is the tech just not ready for prime time yet?	cybersecurity
+1r2or4n	East Midlands CyberSummit	cybersecurity
+1r2ofks	OSCP + GovConsulting Background → Relocating to UK for Cybersecurity Work	cybersecurity
+1r2ocrc	10 Years Pentesting → VP IT Risk Manager. What should I realistically expect?	cybersecurity
+1r2o3dy	Dyscalculia + Cybersecurity	cybersecurity
+1r2nzmp	Training in Deepfake Detection	cybersecurity
+1r2nsuc	Deepfake Detection and Mitigation in Cybersecurity	cybersecurity
+1r2myr3	Researchers Warn: WiFi Could Become an Invisible Mass Surveillance System	cybersecurity
+1r2mm4c	Interview assignment/homework dilemma	cybersecurity
+1r2mfz3	How a single unpatched SAP flaw cost JLR £1.9B and halted 5 countries of production in late 2025.	cybersecurity
+1r2m4sp	AI helps scam centres evade crackdown in Asia, dupe more victims	cybersecurity
+1r2m2o9	Anyone moved off KnowBe4 to Docebo + HoxHunt (or Vibre)? Thoughts?	cybersecurity
+1r2m1fo	Senior security leader looking for cert recommendations — what’s actually worth it?	cybersecurity
+1r2kn4a	Help on Auto Combining Multiple Detection Rules to filter in True Positive events	cybersecurity
+1r2jf1i	Any CyberSec/Hacking Convention in the Western Side of the World?	cybersecurity
+1r2hjv9	Is email spoofing dead?	cybersecurity
+1r2gwif	My own C2 lab - SSE solution validation	cybersecurity
+1r2gcma	Mid-career IT audit / technology risk professional — confused about what to learn next and looking for direction	cybersecurity
+1r2gb85	Moving from Data Engineering to Cybersecurity	cybersecurity
+1r2g9c1	[Academic] Measuring the Increased Risk to Information Systems Due to Micromanagement-Related Stress (IT Professionals, all locations, 18+)	cybersecurity
+1r2g6vs	What difference does the ring ad make?	cybersecurity
+1r2e2my	Authentication Overload	cybersecurity
+1r2dml1	Live Response - The certificate chain was issued by an authority that is not trusted	cybersecurity
+1r2busw	Cyber security clearance with an E class felony?	cybersecurity
+1r2bcu3	The US sanctioned NSO Group while Salt Typhoon was living inside American telecom networks for months undetected. Are we focused on the wrong threat?	cybersecurity
+1r1sdu8	OpenClaw is spreading fast on corporate endpoints. We built a tool to hunt and neutralize it.	cybersecurity
+1r1m99r	Has anyone heard of or works for, Secure IT?	cybersecurity
+1r1m76n	Antivirus/EDR on Pentest Laptops?	cybersecurity
+1r1jjob	Cybersecurity Professionals Needed for Android Malware Detection Research (Academic Study)	cybersecurity
+1r1iuew	What's the actual risk of typosquatting attacks in 2026?	cybersecurity
+1r1ijan	Cyber security birthday gift	cybersecurity
+1r1h51x	Fresh cybersecurity graduate offered solo IT role to build full infrastructure from scratch, good experience or bad move?	cybersecurity
+1r1gp7v	Knowbe4 VS Adaptive Security	cybersecurity
+1r1f28g	RSAC Releases Quantickle Open Source Threat Intelligence Visualization Tool	cybersecurity
+1r1e8tm	OSEP vs MaldevAcademy	cybersecurity
+1r1djri	Server identified as an attack source	cybersecurity
+1r1cug5	WordPress sites keep reinfecting + passwords changing even with cPanel & WHM 2FA enabled. What am I missing?	cybersecurity
+1r1cctp	Security analysts, what's your biggest time sink outside actual security work?	cybersecurity
+1r1c61l	GitHub repo demonstrating POCs	cybersecurity
+1r1bdt4	Cybersecurity statistics of the week (February 2nd - February 8th)	cybersecurity
+1r1aav9	Is CCSP even valuable?	cybersecurity
+1r19w6m	ADHD, organization, and attention to detail	cybersecurity
+1r19a5o	Threat modeling essentials for first time	cybersecurity
+1r18yd6	Cheval de Troie/rat piratage	cybersecurity
+1r17qv0	LOTUSLITE: Targeted espionage leveraging geopolitical themes	cybersecurity
+1r17b1z	Patching openssl yet vunerable	cybersecurity
+1r17ai3	Manipulating AI memory for profit: AI Recommendation Poisoning actively being exploited | Microsoft Security	cybersecurity
+1r171sj	Beyond VMware & Virtual Box	cybersecurity
+1r16yb4	135,000+ OpenClaw instances exposed to the internet, 63% vulnerable, and the fix they just announced isn't going to cut it	cybersecurity
+1r15fdo	Libreboot, or regular AMD laptop?	cybersecurity
+1r1544n	Software engineer branching into AppSec - what courses should I be looking into?	cybersecurity
+1r150g6	I built a browser extension that warns you when a website's domain was registered recently	cybersecurity
+1r14l0x	Just need some guidance and wisdom.	cybersecurity
+1r14bqy	Towards a British Approach to Cyber Campaigning	cybersecurity
+1r13d86	Built PAM for 80+ platforms at a Global bank for 7 years. Contract ended, job is done. Is it worth building a tool, or am I in a bubble?	cybersecurity
+1r138cb	Russia once again moves to restrict Telegram	cybersecurity
+1r1304r	Privacy implications of using a shared ESET HOME seat from a 3rd party?	cybersecurity
+1r12pqo	I need help I have last stage of interview left (and its a case interview)	cybersecurity
+1r12lve	Python as a new programming language - where to start?	cybersecurity
+1r12g9w	cvewatch - Query CVE from Terminal	cybersecurity
+1r11qks	CVE-2025-8088 Exploitation Used to Deploy Amaranth Loader and Havoc Framework	cybersecurity
+1r11drv	Avoid off-shoring cyber testing	cybersecurity
+1r106nd	ZeroDayRAT malware grants full access to Android, iOS devices	cybersecurity
+1r0zdfb	Project or Product Management roles in Cybersecurity?	cybersecurity
+1r0z7cp	Any opensource automated pentesting tools that could pentest authenticated sessions?	cybersecurity
+1r0y61w	Lateral Movement Techniques	cybersecurity
+1r0xzcg	40,000+ AI Agents Exposed to the Internet with Full System Access	cybersecurity
+1r0xqk7	Quick IAM fundamentals knowledge check for security practitioners	cybersecurity
+1r0xnzf	Zero Trust Gap Assessment	cybersecurity
+1r0wvwm	How to decode stuff that isn’t decoding?	cybersecurity
+1r0w1hn	Is it even a valid task for my job	cybersecurity
+1r0vlhh	PassForge v1.0.5 – Privacy-Hardened CLI Credential Toolkit (AES Vault, Balanced Mode, Entropy Fixes)	cybersecurity
+1r0vi80	Joining Army or AF Cyber Warfare - security clearance question	cybersecurity
+1r0vaow	Consigli libri su cybersecurity IoT/embedded e percorso verso security architect	cybersecurity
+1r0tw00	Breaking into binary security roles (catch-22 situation)	cybersecurity
+1r0r2in	Landing a cybersecurity job	cybersecurity
+1r0r1cy	Question for practitioners: building small networking tools for coursework	cybersecurity
+1r0q6oq	Andrew Morris finds iOS AdGuard is written by Russians and injects 20K lines into your browser	cybersecurity
+1r0ploc	Advice on Career Path - Team Lead or Security Engineer	cybersecurity
+1r0pdea	I am trying to create a SAAS tool that requires uses payment. Can anyone tell me what I need to invest in to keep my users data secure	cybersecurity
+1r0ns0m	What made you pick your specific field?	cybersecurity
+1r0nrqt	Fixed Shadow IT SaaS Visibility but I may have "accidentally" built an ICES...	cybersecurity
+1r0mzt2	Detection Engineers, What’s your actual ratio of "Studying System Behavior" vs. "Building Rules"?	cybersecurity
+1r0l8om	Do smart locks have any inherent security issues?	cybersecurity
+1r0k9mg	Is Malware Research realistic?	cybersecurity
+1r0jnqp	We scanned 8,000+ MCP servers... now adding private repo security scanning	cybersecurity
+1r0j8tn	IOC correlation in Splunk (OpenCTI + KV Store)	cybersecurity
+1r0i1i2	Anyone doing any openclaw hunts?	cybersecurity
+1r0ht3a	Need help for DLP interview prep!	cybersecurity
+1r0haq8	Open-sourced an LLM security scanner with 210+ adversarial probes.	cybersecurity
+1r0ha2o	Repost Warning: Active Phishing Campaign on Printables.com targeting Blender users (Malicious .blend files)	cybersecurity
+1r0gzx3	How much of upskilling	cybersecurity
+1r0gg8q	Microsoft Account Hacked	cybersecurity
+1r0flgb	In your opinion, has cybersecurity changed much since 2021?	cybersecurity
+1r0dago	CTI and Military Background	cybersecurity
+1r0cjkw	Mindset and Soft Skills	cybersecurity
+1r0c99w	Any Cybersecurity events ?	cybersecurity
+1r0bxe2	Which AI should i use to learn?	cybersecurity
+1r0bpl6	I built a small deterministic tool for artifact change evidence	cybersecurity
+1r0bhxu	AI Impact on Digital Trust: Academic Survey	cybersecurity
+1r0bf91	Openclaw's whole pitch: "Your infrastructure. Your keys. Your data."	cybersecurity
+1r0anhb	Opinion on discord new Age verification update? after a huge data breach	cybersecurity
+1r0ajvr	I Signed Up for AI.com After its Super Bowl Ad. Then I Read Its Alarming Privacy Policy	cybersecurity
+1r09pb3	Ultimate "Burner" Browser Setup: Running Kasm on ZimaBoard 2 (No Lag!)	cybersecurity
+1r09aae	what note taking apps do you use and how	cybersecurity
+1r07kc0	Do data breaches actually have physical, real life consequences? Companies are implementing age assurances, but there is no guarantee of privacy or security	cybersecurity
+1r074wl	ClickFix access broker campaign hits Windows with Python-driven backdoors	cybersecurity
+1r06oro	Sleeper Shells: Attackers Are Planting Dormant Backdoors in Ivanti EPMM	cybersecurity
+1r06elq	Started independent - are schools worth it ? How is it different ?	cybersecurity
+1r05v4k	I built an open-source AI agent that runs pentest autonomously, looking for feedback from actual security people	cybersecurity
+1r05bzl	India Reveals National Plan for Quantum-Safe Security	cybersecurity
+1r03ia9	I run an AI agent skill marketplace and honestly the state of security across this space is terrifying	cybersecurity
+1r03hfb	Pós-graduação em Cibersegurança	cybersecurity
+1r03ez4	Latest Cybersecurity News of the Week Summarised (09/02/2026)	cybersecurity
+1r02s3y	Best Stable Linux OS for Cyber security(Red teaming)	cybersecurity
+1r02bbs	Open-source tool to monitor and control what your AI agents are sending to LLM APIs	cybersecurity
+1r01bhc	Conduent data breach might have been much worse than initially expected	cybersecurity
+1r017p7	ISO 42001: Is it time to leave the SOC 2/27001 hamster wheel?	cybersecurity
+1r017bv	European Commission discloses breach that exposed staff data	cybersecurity
+1r0113f	Hackers Are Impersonating Security Tools to Hack Security Professionals	cybersecurity
+1r00wbz	Is anyone else feeling the "2026 Shift"? is it the end of pentesting?	cybersecurity
+1r00pjj	WEB-RTA of cyberwarefareLab	cybersecurity
+1qzzz4x	We rebooted Open Security Architecture after 15 years dormant -- 39 security patterns with free self-assessments	cybersecurity
+1qzymhm	Can I pass the OSDA exam if I’ve completed all the challenge labs?	cybersecurity
+1qzybb6	Building a CobaltStrike AggressorScript Bridge for Any Language	cybersecurity
+1qzx89w	Babuk Locker 2.0 Reality Check	cybersecurity
+1qzu7z8	taking a look under the hood of "WormGPT"	cybersecurity
+1qzrxv2	Blockchain in a Box (Dockerized Crypto Nodes for the Classroom)	cybersecurity
+1qzrase	When AI Agents Go Rogue: The Approval Fatigue Problem Nobody’s Solving	cybersecurity
+1qzp0vu	Mentorship Monday - Post All Career, Education and Job questions here!	cybersecurity
+1qzorgc	Where can I develop further to entry or mid-tier	cybersecurity
+1qzme2v	One way to bypass VirusTotal scanning in ClawHub/OpenClaw	cybersecurity
+1qzm9i2	Palo Alto XSIAM feedback request	cybersecurity
+1qzm8rd	I wrote my own Open Source C2 Framework, what do I do with it now?	cybersecurity
+1qzkz6i	Roundcube Webmail: SVG feImage bypasses image blocking to track email opens	cybersecurity
+1qzint4	Good resources for learning NIST CSF 2.0	cybersecurity
+1qzh34z	Where does “DevSecOps” fit in to the industry?	cybersecurity
+1qzh1qg	Vouch: earn the right to submit a pull request	cybersecurity
+1qzefj4	I came up with a stupid, expensive, and overcomplicated (but theoretically working) way to avoid prompt injections	cybersecurity
+1qzcscd	PECB ISA/IEC 62443 Lead Implementer	cybersecurity
+1qzbeuf	trappsec: an open-source framework for API deception	cybersecurity
+1qzbbwe	Have I committed a criminal offense?	cybersecurity
+1qz9ygb	We didn't want to send our security data to a 3rd party cloud, so we built a self-hosted SOAR (Apache 2.0)	cybersecurity
+1qz96gy	Building a tool to turn mobile screen recordings into structured forensic data — looking for feedback	cybersecurity
+1qz6u6l	Built a small AI-focused security scan for code before prod — looking for honest feedback	cybersecurity
+1qz5s3f	Cybersec awareness - tokens/gifts?	cybersecurity
+1qz5p54	Is this a good entry level "course"?	cybersecurity
+1qz3tkq	Feeble attempt of mine to create a security skill for OpenClaw	cybersecurity
+1qz3qc0	Certified CyberDefender (CCD) vs SANS	cybersecurity
+1qz3ae1	Why is there no juiced up brother for flipper zero yet ?	cybersecurity
+1qz1mzj	Why is the standard of US Red Teams so poor	cybersecurity
+1qyxd9t	Table of 2FA strength	cybersecurity
+1qyw9q9	App Security/ Blue Team	cybersecurity
+1qyvdk1	Which WiFi adapter is best for WiFi pentesting and auditing?	cybersecurity
+1qyvboa	Open source hardened container images - a solution	cybersecurity
+1qytxs0	Seeking community feedback : Building AWS-Perimeter - AWS Security Scanner	cybersecurity
+1qytly2	Is cybersecurity software buying mostly top-down?	cybersecurity
+1qysfi4	Feeling unfulfilled as a new grad	cybersecurity
+1qys16c	ISC2.org Insight Report on 2025 Cybersecurity Hiring Trends	cybersecurity
+1qyr28m	Weighing historical geopolitical ties in vendor security assessments for sensitive data	cybersecurity
+1qyqqml	State actor targets 155 countries in 'Shadow Campaigns' espionage op	cybersecurity
+1qyq56d	Question from Returning Pro	cybersecurity
+1qyohu8	Experience with IR tabletop for non technical audience?	cybersecurity
+1qyo4jy	Cybersecurity as a hobby	cybersecurity
+1qyn1ow	Will application security become more valuable with the rise of vibe coding or will it become automated away like a lot of SDE jobs?	cybersecurity
+1qykqeh	Claude Opus Finds more than 500 High Severity Vulnerabilities in OpenSource Codebases	cybersecurity
+1qykbsn	For pentester: how much time it took you to start solving CTFs?	cybersecurity
+1qyimj1	Interview question to bring devs on board	cybersecurity
+1qyi32i	WAF Product Suggestions	cybersecurity
+1qyhkkz	Shift burnout is real	cybersecurity
+1qydx10	I’m looking for recommendations on a cheap but solid endpoint security solution for individual users and very small businesses (1–10 employees).	cybersecurity
+1qyapbi	AppSecMaster JWT challenge writeup	cybersecurity
+1qy9y6z	CTO at NCSC Summary: week ending February 8th	cybersecurity
+1qy9p41	Is this a vulnerability ?	cybersecurity
+1qy9ok4	where can i report 0 day vulnerabilities	cybersecurity
+1qy8rg1	For those who’ve landed jobs in cybersecurity, what made you stand out to get hired?	cybersecurity
+1qy8fha	What are your thoughts on autonomous AI pentesting tools?	cybersecurity
+1qy7roz	The quantum era is coming. Are we ready to secure it?	cybersecurity
+1qy663e	Building a new Intrusion Prevention System, would love community feedback	cybersecurity
+1qy5rss	What was the "smoking gun" that led you to discover a major breach that everyone else had missed?	cybersecurity
+1qy0511	Analysis of active exploitation of SolarWinds Web Help Desk	cybersecurity
+1qxxpjv	CISSP and future of SOX roles	cybersecurity
+1qxwht7	Ransomware, to pay or not to pay, that really is the question.	cybersecurity
+1qxwc3e	Can malware directly manipulate Windows Event Logs or Sysmon to stay "invisible"?	cybersecurity
+1qxu24s	Regarding jmai' safety level	cybersecurity
+1qxtkxf	GRC tool limitations	cybersecurity
+1qxr6j6	Princeton PExL Program Files Exposed in Open Google Cloud Storage	cybersecurity
+1qxqwv0	Hoyoverse.com subdomains and hidden URLs and scan reports	cybersecurity
+1qxqkvf	How do you get better at network and security topology diagrams, plus HLDs?	cybersecurity
+1qxq5j0	Google Cybersecurity Certificate portfolio question	cybersecurity
+1qxodbh	Students going into Cyber save yourself	cybersecurity
+1qxo0am	How Much Do Cybersecurity Analysts Earn by City in 2026?	cybersecurity
+1qxny34	In today's episode of "AI will make tech people unemployed by the end of 2025": The most downloaded Clawdbot/OpenClaw skill is AmosStealer macOS malware	cybersecurity
+1qxnpjh	Cybersecurity statistics of the week (January 26th - January 30th)	cybersecurity
+1qxmyy8	I'm just a beginner in cybersecurity looking for insights	cybersecurity
+1qxmwll	I'm a high school student and I built an open-source SAST tool to catch API leaks in Python code.	cybersecurity
+1qxmbds	Network Security- uninspectable protocols	cybersecurity
+1qxjyy4	Trying to (moderately) level up OpenClaw with credential isolation	cybersecurity
+1qxjuac	State-backed phishing attacks targeting military officials and journalists on Signal	cybersecurity
+1qxjg9q	Best way to manage a full pentest process in a structured workflow?	cybersecurity
+1qxj4ww	After CDSA can I go straigth to GCFA (FOR508) rather than having to take GCIH( (SEC504)	cybersecurity
+1qxj3em	How appealing is C proficiency?	cybersecurity
+1qxi2m9	Seeking advice on a secure malware analysis lab setup and transfer workflow	cybersecurity
+1qxhvw7	Best vulnerability management book to read right now?	cybersecurity
+1qxhg55	Marketing tools have more access to prod than most engineers. How do you secure against this?	cybersecurity
+1qxgam4	Moltbook perfectly reveals the state of security of vibe coded apps	cybersecurity
+1qxg87l	New Clickfix variant ‘CrashFix’ deploying Python RAT	cybersecurity
+1qxg6st	Trying to build a control-centric compliance model (ICM/SCF)...feels massive. Am I overthinking this?	cybersecurity
+1qxfz58	Cloud security is confusing me, could someone explain it?	cybersecurity
+1qxfha4	Taking a detour in my quest to be a cyber analyst(IR or Threat hunting) into network operations and engineering.	cybersecurity
+1qxffnz	Screaming at the Kernel: How GhostKatz Uses "Vulnerable Drivers" to Dump Credentials via Physical Memory	cybersecurity
+1qxfe3e	Can I block a particular pincode/area from visiting my website?	cybersecurity
+1qxe4ou	Security automation shouldn't cost $50k. We built an open-source alternative.	cybersecurity
+1qxe1ea	CrowdStrike vs SentinelOne	cybersecurity
+1qxbqz0	“Developers lack knowledge to implement secure software development”	cybersecurity
+1qxb8ar	Memory Poisoning Vulnerability demonstration	cybersecurity
+1qx6pfh	Soc level 1 whats next?	cybersecurity
+1qx6gci	How was the US Government able to track down someone through just 4chan posts?	cybersecurity
+1qx5ew4	Can files be protected AFTER ransomware starts running?	cybersecurity
+1qx0spi	Self-learning Cyber Security	cybersecurity
+1qx0gi7	Anyone affected by the recent SmarterMail CVE's?	cybersecurity
+1qwyfo2	Is it too late to start?	cybersecurity
+1qwycxd	[Experiment] Cryptographic Pre-Registration of Cybersecurity Event Prediction (Feb 12-18)	cybersecurity
+1qwxtp7	TCM Security retiring certification bundles	cybersecurity
+1qwxgg1	Can Chromebooks really be hacked?	cybersecurity
+1qwwcvx	Starting a project for secure mobile device	cybersecurity
+1qwwc4o	nono – Kernel-enforced sandboxing for AI agents	cybersecurity
+1qww2xo	CISA BOD 26-02: Mitigating Risk From End-of-Support Edge Devices	cybersecurity
+1qwvpng	Best way to safely open files from unknown sources on a Mac?	cybersecurity
+1qwvfh1	Security Advisory: OpenClaw is spilling over to enterprise networks	cybersecurity
+1qwvc6k	Email security consulting - good idea?	cybersecurity
+1qwvb38	anyone cracked faster investigations? detecting is fine	cybersecurity
+1qwu5m6	The AI Agent/ Lobster Emoji Bubble	cybersecurity
+1qwt4xi	Displaying home labs/projects - any tips?	cybersecurity
+1qwsisi	From where To Take Start In Cyber security	cybersecurity
+1qws0ug	Beyond Phishing Clicks: Why Employees Need Cybersecurity Foundations	cybersecurity
+1qwrwsh	OpenClaw is terrifying and the ClawHub ecosystem is already full of malware	cybersecurity
+1qwrifz	Build-time String Encryption for Position-Independent Code	cybersecurity
+1qwrdi7	What major to choose ?	cybersecurity
+1qwr0fc	Lockdown Mode prevented FBI from getting into reporter’s iPhone	cybersecurity
+1qwqd2d	Phishing emails are going crazy lately	cybersecurity
+1qwp8tw	Cyberattacks and Behavior Manipulation	cybersecurity
+1qworah	Since this sub is full of dark perspectives about the state of the industry, could you share some good parts about being in cybersecurity? Any success stories, ways your current role made your life better compared to your previous jobs?	cybersecurity
+1qwog7i	Nitrogen can't unlock its own ransomware after coding error	cybersecurity
+1qwocww	New Amaranth Dragon cyberespionage group exploits WinRAR flaw	cybersecurity
+1qwo8ip	n8n CVE-2025-68613 and CVE-2026-25049: Critical RCE Vulnerabilities	cybersecurity
+1qwnszr	Recreating uncensored Epstein PDFs from leaked raw base64-encoded data	cybersecurity
+1qwnmna	Tulare City schools probe network incident; extortion claim	cybersecurity
+1qwndd5	SANS 2026 in Orlando Mar 29 to Apr 3	cybersecurity
+1qwmswn	I’m Ross McKerchar, CISO at Sophos: AMA on tackling the issue of detecting fraudulent remote IT hires and building workable controls.	cybersecurity
+1qwmdqz	Malicious Infrastructure Campaigns: How Unrest in Iran is Being Weaponized Online	cybersecurity
+1qwmapw	The Shadow Campaigns: Uncovering Global Espionage	cybersecurity
+1qwlur2	Putting together a checklist for safe AI agent use. Please help improve it!	cybersecurity
+1qwl5sg	Yara-X + PacketSmith Detection Module	cybersecurity
+1qwl0wt	Threat Intel Platforms?	cybersecurity
+1qwjxgz	Career switch from SAP Security to IAM or AppSec	cybersecurity
+1qwj3r4	Data breach at fintech firm Betterment exposes 1.4 million accounts	cybersecurity
+1qwijpp	From Scripts to Systems: What OpenClaw and Moltbook Reveal About AI Agents	cybersecurity
+1qwh790	Vulnerability scanner for new web application	cybersecurity
+1qwgyxx	Microsoft Defender XDR now automatically tunes low-severity alerts	cybersecurity
+1qwgv9h	New CentOS UAF to LPE vulnerability	cybersecurity
+1qwfvbv	How are security teams budgeting for AI-related solutions like readteaming, Shadow AI, runtime security?	cybersecurity
+1qwflvh	What do you guys use for automation? We built an open-source tool to replace our scripts.	cybersecurity
+1qweymk	The Biggest Shifts in OWASP Top 10 2025	cybersecurity
+1qweeq4	Is cybersecurity a good fit if you’re not strong in verbal communication?	cybersecurity
+1qweaj9	CVE-2025-11730: Remote Code Execution via DDNS configuration in ZYXEL ATP/USG Series (V5.41)	cybersecurity
+1qwd2kq	Engaging activites for an Intro To Cybersecurity event? Help me come up with some pls🙏	cybersecurity
+1qwb1a0	How long until we see a major AI-related data breach?	cybersecurity
+1qwaddq	Securing Clawdbot and AI Agents	cybersecurity
+1qw7mfr	Looking to hire White Hat / Pen Tester - can anyone suggest a reputable company?	cybersecurity
+1qw60qi	Do hackathons look good on LinkedIn?	cybersecurity
+1qw251o	Pivotal Decision, or just keep grinding?	cybersecurity
+1qw1i06	Clawdbot Security Finder	cybersecurity
+1qw1eyf	Salami attack sa pinas	cybersecurity
+1qw1eoz	3rd round interview for a security operations analyst role. Need advice.	cybersecurity
+1qw11gs	C2 ip inside a phishing email	cybersecurity
+1qw0l50	How do people handle sensitive data in workflows like this? Has anyone tried using a self-hosted or open-source AI so confidential info never leaves their environment but the AI can still execute reliably?	cybersecurity
+1qvz0pk	SWG ForcePoint vs FortiProxy	cybersecurity
+1qvy9gd	Quantum computers could break Dutch encryption by 2030, Court of Audit warns	cybersecurity
+1qvw8a7	How a Single Quote Broke Markdown’s Safety Assumptions	cybersecurity
+1qvv0bs	How 0apt is Using Random Noise to Fake a Ransomware Empire	cybersecurity
+1qvuw13	Analysis of Emergent Threat Vectors in the Moltbook/OpenClaw Ecosystem (2026 Q1)	cybersecurity
+1qvuhxt	Bootcamp alternative	cybersecurity
+1qvufny	New dev dipping into cybersecurity. dumb question: will running a HellPot farm earn me good karma? 😅	cybersecurity
+1qvtzqa	What Every Programmer Needs to Know about Quantum Safe Cryptography and Hidden Number Problems	cybersecurity
+1qvts0d	ADHD and Executive Dysfunction in Cybersecurity	cybersecurity
+1qvtg4s	Is it worth starting a career in SOC in the age of AI?	cybersecurity
+1qvt5ey	Forecasting Cyber Security Jobs in the next 5 years	cybersecurity
+1qvra38	[Tool] Free scanner for AI agent skills - the supply chain problem nobody's auditing	cybersecurity
+1qvr88m	Personal Project: Building a zero-trust AI chat platform - would appreciate a security architecture review	cybersecurity
+1qvr084	Shinyhunters just leaked a bunch of sensitive data from Harvard University, impacting some of the most powerful people & exposing Harvard's internal protocols around donations	cybersecurity
+1qvqrqr	Google Workspace Admin audit logs missing user-agent field	cybersecurity
+1qvqfld	System pentesting for SMEs: what comes after the basics?	cybersecurity
+1qvp60j	Best RAM/CPU Allocation for Wazuh Manager + 2 Agent VMs?	cybersecurity
+1qvolzs	Reverse Engineered SynthID's Text Watermarking in Gemini	cybersecurity
+1qvok08	BYOAI Without Leaking the Crown Jewels	cybersecurity
+1qvno1j	What part of IAM do teams still underestimate the most?	cybersecurity
+1qvj7fe	Do security rules ever just wear you down?	cybersecurity
+1qvi6zf	MED sensor telemetry used for Purview is inconsistent	cybersecurity
+1qvfpxp	How do you handle vulnerability communications?	cybersecurity
+1qve5ll	Lab Showcase] Ideas for building a Threat Intel & Malware Analysis Lab on Proxmox (Whonix + FlareVM)	cybersecurity
+1qvchps	Point72 - Information Security Intern Interview	cybersecurity
+1qvbl0a	SANs - Cloud Security	cybersecurity
+1qva2kv	I got tired of purely theoretical cybersecurity content, so I started writing deep-dives on real breaches	cybersecurity
+1qv9urd	I built SigZero Academy after getting tired of purely theoretical cybersecurity content	cybersecurity
+1qv97u3	I built SigZero Academy after getting tired of purely theoretical cybersecurity content	cybersecurity
+1qv7p2r	Incident Response Collection	cybersecurity
+1qv6phr	Small IT staff tiered access	cybersecurity
+1qv6k1z	Vulnerability Allows Hackers to Hijack OpenClaw AI Assistant	cybersecurity
+1qv5kwt	Please Don’t Feed the Scattered Lapsus ShinyHunters - KrebsOnSecurity	cybersecurity
+1qv5gcx	Security Analysis of 306 MCP Servers reveals 1,211 vulnerabilities - 32 with RCE via eval()	cybersecurity
+1qv5fmo	The Notepad++ supply chain attack – unnoticed execution chains and new IoCs	cybersecurity
+1qv4nnp	I want to ask Cybersecurity Professionals if this specific ransomware removing scene in K-drama "Start-up" is realistic, and what the character actually did? If anyone can explain.	cybersecurity
+1qv4kwy	When will OpenClaw hit enterprise?	cybersecurity
+1qv4isx	Best practice: Uninstall a program if a specific program version may have been compromised through the supply chain.	cybersecurity
+1qv3vn0	In the age of AI, what are your thoughts on source code review? Is it worth spending time working on source code review skills? I'm playing with a combination SAST & AI	cybersecurity
+1qv3d10	Cdxgen has to have type input for sbom?	cybersecurity
+1qv30c6	RSAC vs. Black Hat USA (2026): Which one is actually worth the budget?	cybersecurity
+1qv2215	HOPE is now officially a registered 501(c)(3) non-profit.	cybersecurity
+1qv1xga	SAST tooling suggestions for iOS (Swift) and Android (Kotlin) apps?	cybersecurity
+1qv1sjb	Has anyone here left cybersecurity for a year+ and come back?	cybersecurity
+1qv1g1x	72 hour ransom to Sapienza University of Rome after hackers deployed ransomware	cybersecurity
+1qv0lkb	Working with the defense sector, what are relevant guidelines to ensure local security?	cybersecurity
+1qv01uu	Early-career FRCS / OT cybersecurity engineer – is this a good long-term foundation or should I pivot?	cybersecurity
+1quy4sx	Call for Speakers - Diana Initiative online conference is open	cybersecurity
+1quxq3x	Anyone here transition from a ServiceNow engineer (or similar platform engineer role) to a security engineer/other role	cybersecurity
+1qux4zh	I don't have enough mental capacity to read or do work.	cybersecurity
+1quvyl2	I built an open-source EDR that maps 216 MITRE ATT&CK techniques (Next.js + Python/PyTorch) - Roast my work!	cybersecurity
+1quuw5n	Interview Prep for Security Engineer	cybersecurity
+1qutood	Business owners or IT managers,	cybersecurity
+1qut7sb	Open-sourced two additionl MCP servers after last week's feedback. They caught errors Claude Opus missed alone	cybersecurity
+1qusxqq	[Tool] Rapid Web Recon: Automated Nuclei Scanning with Client-Ready PDF Reporting	cybersecurity
+1quswai	Cyber insurance forced me to actually compare VPN vs ZTNA vs SASE	cybersecurity
+1qurhd4	Malicious MoltBot skills used to push password-stealing malware	cybersecurity
+1quradz	Notepad++ Infrastructure Compromise	cybersecurity
+1qur7sc	Making SBOMs more usable for supply-chain security	cybersecurity
+1quqynt	Russian hackers exploit recently patched Microsoft Office bug in attacks	cybersecurity
+1quqvxn	A small Python library for reasoning traceability (MRS Core)	cybersecurity
+1qupl30	Geoblocking accounts	cybersecurity
+1quozb5	Tech Dependencies Undermine UK National Security - While the UK focuses on hybrid threats, is it being undermined by dependencies on US providers? Can the UK have a national security agenda in isolation?	cybersecurity
+1quodt0	8.7 billion records spilled: Inside the massive Chinese data leak	cybersecurity
+1qunupo	Deep dive into Meta's move to Rust: How WhatsApp replaced its C++ media engine with 90k lines of Rust and the "Kaleidoscope" inspection layer.	cybersecurity
+1qun7p5	Did we all start cybersecurity with intentions on being hackers?	cybersecurity
+1qun21q	what helps speed up compliance evidence collection besides praying?	cybersecurity
+1qulkx2	Found a wallet-drain prompt-injection payload on Moltbook (screenshots) — builders: treat feeds as untrusted	cybersecurity
+1quld22	ISO 27001:2022 Lead Auditor training (BSI India, CQI/IRCA) felt like slide‑reading – failed exam, how to escalate / what to expect?	cybersecurity
+1qukcv2	[Feedback] Redink — Python-based Linux CLI for network exposure analysis with risk-oriented output	cybersecurity
+1quk3vf	Wireless IDS for Layer 2 Attacks detection (ESP32 Based)	cybersecurity
+1quigy5	Threat model discussion: unmediated agent frameworks, permission escalation, and rapid real-world impact	cybersecurity
+1quhzyb	Background Fetch API in Chrome allowed a remote attacker to leak cross-origin data	cybersecurity
+1quhyp5	Final Interview for first GRC/AppSec role (Solo Internal Security) - Advice needed!	cybersecurity
+1qugq2f	If I’ve forgotten a lot of math and want to pursue a master’s in cybersecurity, should I relearn math from scratch or just focus on the math related to cybersecurity?	cybersecurity
+1que54r	Getting into Security Engineering	cybersecurity
+1qudqg9	Chainguard admitted Factory 1.0 was “brittle.” Here’s how 2.0 fixes it.	cybersecurity
+1qudjwx	Different roles and market situation	cybersecurity
+1qubu7y	IBD (Crohn’s and UC) in cyber security	cybersecurity
+1quaqv6	Looking to Move from Ops to GRC — Is my content Moderation Experience Relevant and is it viable?	cybersecurity
+1qu9gok	For those with several years of experience in the field, what was the most “fun” role and what did you do?	cybersecurity
+1qu7dbw	Is there a way to map between CIS and STIGs benchmarks?	cybersecurity
+1qu70mw	Vulnerability Summary for the Week of January 26, 2026	cybersecurity
+1qu6qdu	Cyber defence/offence	cybersecurity
+1qu6av1	Claude Code Remote Code Execution	cybersecurity
+1qu67wa	Just had the worst interview of my life, extremely discouraged	cybersecurity
+1qu5pgk	Security+ study hours per week	cybersecurity
+1qu5516	OpenClaw (aka Clawdbot) gives malicious websites access to session cookies	cybersecurity
+1qu50sm	what's a starter pack skill set you'd recommend your cybersecurity newbie?	cybersecurity
+1qu4vk9	Why do people think AI will replace security engineers?	cybersecurity
+1qu4lmj	I fear that i'll just forget what i learn	cybersecurity
+1qu4g5x	Your servers shouldn't need to know ACME	cybersecurity
+1qu4aqc	Re-image device or not?	cybersecurity
+1qu4aoc	Inside the OpenClaw Ecosystem: What Happens When AI Agents Get Credentials to Everything	cybersecurity
+1qu48w3	[Deep Dive] Osiris Ransomware: Technical Analysis of the "POORTRY" Driver & BYOVD Tactics (2026)	cybersecurity
+1qu3en9	Flutter Reverse Engineering	cybersecurity
+1qu2q5m	MCP security scanner for developers - scans networks, processes, containers	cybersecurity
+1qu26jp	InstaCloud - Cloud Storage using Instagram's API	cybersecurity
+1qu22te	First research with IOCs on the Notepad++ hack is now out	cybersecurity
+1qu2102	Latest Interesting Cybersecurity News of the Week Summarised – 02-02-2026	cybersecurity
+1qu0p2c	We are looking for a SIEM Solution. Any recommendations?	cybersecurity
+1qtzk9u	Hacking Moltbook: AI Social Network Reveals 1.5M API Keys	cybersecurity
+1qtzf89	Thoughts on Rapid7 + Other recommendations for SIEMs?	cybersecurity
+1qty8gl	Anyone else? Malgent MDE + Other EDR sudden influx of alerts?	cybersecurity
+1qtxg9v	How do you use Coding Agents to help fixing CVEs?	cybersecurity
+1qtwf6r	We need to start teaching cyber security in highschool.	cybersecurity
+1qtvrhf	Question on Sentinel, Cribl, and long term storage	cybersecurity
+1qtu65t	SIEM: Rapid 7 vs Microsoft Sentinel	cybersecurity
+1qtu091	Red Alpha Cybersecurity	cybersecurity
+1qtthrs	AppLocker Rules Abuse	cybersecurity
+1qtsbs7	Bot Detection Project Ideas	cybersecurity
+1qts0ql	Federal Shutdown Effect on Security	cybersecurity
+1qtrqhj	I built an open-source tool to automate security remediation in PRs (No LLM/Deterministic only)	cybersecurity
+1qtrbjp	Is least privilege realistic in fast-moving cloud environments, or is it mostly a checkbox exercise?	cybersecurity
+1qtr1s0	Can network printer get data from USB connected device?	cybersecurity
+1qtqr90	175k+ publicly exposed Ollama servers, so I built a defensive scanner and I’m releasing it	cybersecurity
+1qtq392	Need help proving why non-HttpOnly auth cookies are dangerous (even with bleach sanitization)	cybersecurity
+1qtoyiu	How to become a 0 day researcher	cybersecurity
+1qtotqa	NetSupport RAT Abuse of a Legitimate Remote Admin Tool	cybersecurity
+1qtl59i	should I use generated password instead of coming up with my own?	cybersecurity
+1qtksbv	OWASP founder - New trump cyber policies (deletions) are a diaster	cybersecurity
+1qtiytn	Trying to learn basics with a brain that short circuits	cybersecurity
+1qtiwai	Notepad++ Hijacked by State-Sponsored Hackers	cybersecurity
+1qtfzgn	I built an open-source browser policy enforcement system (Browser Bricker), looking for feedback	cybersecurity
+1qtfggd	Clawdbot and the First AI Disaster - What Could Go Wrong?	cybersecurity
+1qtf7kz	Mentorship Monday - Post All Career, Education and Job questions here!	cybersecurity
+1qtev2z	Anybody Have Any Experience With Mammoth Club Books?	cybersecurity
+1qteadb	Is Palo Alto Cortex XDR worth testing/buying if you don’t use any Palo Alto firewalls? (We currently run Microsoft Defender for Endpoint P2 + Jamf Protect)	cybersecurity
+1qte029	New Framework for Detection Logic Bugs	cybersecurity
+1qtdqp2	SANS ICS515 vs ICS612	cybersecurity
+1qtd8db	Course recommendation for Detection Engineer	cybersecurity
+1qtd5be	Database of malicious Chrome/Edge extensions - auto-updated daily	cybersecurity
+1qtd4r3	Automated API Security Scanning Tools for CI/CD Pipelines	cybersecurity
+1qt9pi6	Dockerized CTF Challenge Index with Writeups	cybersecurity
+1qt8trc	SANS Course SEC598 (GASAE)	cybersecurity
+1qt8ext	Which sans course is the best price/value	cybersecurity
+1qt879p	OpenScap on Fedora 43 workstation	cybersecurity
+1qt82lw	Using MCP to build an "Accessible SOAR" for SMBs/Junior SOC Analysts. Thoughts?	cybersecurity
+1qt7uek	From Cloud engineer to Security Engineer?	cybersecurity
+1qt6wm7	Cybersecurity engineering - Python studying resources	cybersecurity
+1qt600u	1-Click RCE In OpenClaw/Moltbot/ClawdBot	cybersecurity
+1qt5cj6	who else skept networking just to find it as a core cyberops?	cybersecurity
+1qt4uxf	Open-source Ghidra MCP Server — 118 AI tools for reverse engineering with cross-version function matching and Docker support	cybersecurity
+1qt4cku	We caught an account take over from a dumb signal I wasn’t watching. Anyone else doing this?	cybersecurity
+1qt1hrf	Can “trust” be the biggest weakness in cybersecurity?	cybersecurity
+1qt0yjv	Supply chain attack on eScan antivirus: detecting and remediating malicious updates	cybersecurity
+1qt01ei	Match, Hinge, OkCupid, and Panera Bread breached by ransomware group	cybersecurity
+1qsv9fm	Aspiring GRC Analyst — What actually matters for landing a first role?	cybersecurity
+1qsv30t	CTO at NCSC Summary: week ending February 1st	cybersecurity
+1qsv12u	Roadmap and Training Recommodation	cybersecurity
+1qsu4jb	The Autonomous Adversary: From “Chatbot” to Criminal Enterprise	cybersecurity
+1qssx2m	Recommendations for CISSP preparations with only 3 years experience overall?	cybersecurity
+1qssub4	I built a free Pentest Lab so anyone can practice real-world exploitation, would love community feedback	cybersecurity
+1qssnre	Host-Level Exploitability Graphs: Practical or Still Research?	cybersecurity
+1qsqytv	SWE with cloud sec certs but never had strictly cyber position	cybersecurity
+1qsp4f9	A measurement-only toy model for emergent structure (no AI, no optimization)	cybersecurity
+1qsogjf	Blue teamer that wants to transfer to red team	cybersecurity
+1qsln27	Firewall Engineer / Security Background Feeling Burned Out — Is Cloud Security a Good Path?	cybersecurity
+1qslb19	Masters worth it mid career?	cybersecurity
+1qsj9ue	Sharing a tool I made to track cybersecurity VC online discussion.	cybersecurity
+1qsiozf	University Help - I'm Unsure Which Master's Program to go for.	cybersecurity
+1qsi6ds	Informant told FBI that Jeffrey Epstein had a ‘personal hacker’	cybersecurity
+1qsgtjt	Perte d’accès OAM après l’application de PERMIT ACL sur le BBU Ericsson	cybersecurity
+1qsfowu	Getting out of cybersecurity	cybersecurity
+1qsevbb	Epstein Files and risk of AI Generated Disinformation	cybersecurity
+1qselfx	How to escape tutorial purgatory	cybersecurity
+1qsbgrl	U.S. convicts ex-Google engineer for sending AI tech data to China	cybersecurity
+1qsat95	university certified courses e.g Havard online or organization certified courses e.g Comptia what's got more weight?	cybersecurity
+1qsaqj5	microVM isolation in CI for security	cybersecurity
+1qs8e2s	Centralized vs Federated IAM for external admins	cybersecurity
+1qs7il9	Road map to becoming a GRC Analyst	cybersecurity
+1qs7dtn	Looking for leads of reformed cyber-criminals	cybersecurity
+1qs6ylx	Looking for tools to index/search structured breach data for research	cybersecurity
+1qs6htu	Best next Blue Team cert after Security+?	cybersecurity
+1qs5pd6	Advice Needed: IT Technician vs SOC Analyst	cybersecurity
+1qs5ij6	Seeking feedback on PhD research direction: Knowledge Graphs + LLMs for Threat Intelligence	cybersecurity
+1qs5igi	Cybersecurity training for privacy lawyer	cybersecurity
+1qs50ve	CVE-2026-20929 Kerberos Authentication Relay Via CNAME Abuse and protection against it	cybersecurity
+1qs4f8c	Is it normal for WordPress sites to expose users via /wp-json/wp/v2/users and have no rate limiting?	cybersecurity
+1qs3486	Got into CTI and need pointers moving forward	cybersecurity
+1qs18d9	What hours do you work and what job do you do?	cybersecurity
+1qs07xe	Test environments, are there any?	cybersecurity
+1qryyak	Compressed Alignment Attacks: Social Engineering Against AI Agents (Observed in the Wild)	cybersecurity
+1qrykzd	Made a free IaC Security scanner that runs in your browser (no uploads required)	cybersecurity
+1qryc22	Guidance post - MSP Owner to Information Security/GRC	cybersecurity
+1qrx7us	Report detailing a coordinated cyberattack against Poland’s energy sector	cybersecurity
+1qrvqqd	Google disrupts IPIDEA residential proxy networks fueled by malware	cybersecurity
+1qru6ol	Resources to bridge Technical/ Enterprise IT gap in skills	cybersecurity
+1qrtwrs	Seeking advice on graduate program vs certifications	cybersecurity
+1qrrzb7	Has anyone seen a PQ TLS handshake yet?	cybersecurity
+1qroo8j	How did you pivot from SOC to Architecture?	cybersecurity
+1qrohwf	Build Your Cybersecurity Defense Plan: OWASP TaSM Framework (Workshop)	cybersecurity
+1qrmzfc	Is it standard practice to ask vendors to issue CVEs?	cybersecurity
+1qrhsu8	Challenges with OpenAI AARDVARK (vulnerability fix research)	cybersecurity
+1qrgi2z	Our CISO is a decorative wallflower	cybersecurity
+1qrfd7z	How do you manage 150+ daily quarantine notifications for false positives?	cybersecurity
+1qrf1nk	Has anyone recently received these gov links?	cybersecurity
+1qrc7co	Doing Intelligence via Twitter/X	cybersecurity
+1qrbwa9	Clawdbot to Moltbot, now becomes OpenClaw - it's third name change	cybersecurity
+1qrauyp	apod: a lightweight wrapper around podman to run GUI apps from a container	cybersecurity
+1qrat9g	Looking for advice from Professionals in the field SOC	cybersecurity
+1qrallo	LAN scanner looking for new devices or unprotected devices	cybersecurity
+1qr9x9r	In Wake of Venezuela, Nonkinetic Effects ‘at the Forefront’: Official	cybersecurity
+1qr9qoy	how much time do you actually spend writing pentest reports?	cybersecurity
+1qr9bfs	Developer starting in cybersecurity.	cybersecurity
+1qr7rza	Easy cybersecuirty project I made	cybersecurity
+1qr616a	Need help with AI security.	cybersecurity
+1qr5st6	I wrote an article on the CIS Controls, and added 8 key takeaways	cybersecurity
+1qr5fi4	[Open-Source]: Made another Cybersecurity (terminal-based) game that helps with Windows CMD familiarity while responding to incidents.	cybersecurity
+1qr4osy	When did you feel ready?	cybersecurity
+1qr4bvy	Need help finding devSecOps tools	cybersecurity
+1qr3tru	Energy Sector Incident Report - 29 December 2025	cybersecurity
+1qr3mg2	How to check the high Gb file?	cybersecurity
+1qr3789	Google SWE (Security) Interview, Poland	cybersecurity
+1qr08l8	obvious psy op is obvious	cybersecurity
+1qqzpqm	Solo AppSec Engineer Needs Automated API Security Scanning Solution for 50+ Healthcare APIs - What Should I Use?	cybersecurity
+1qqzn6f	Free/Open Source Vulnerability Management softwares	cybersecurity
+1qqz1sj	CybICS: A modular ICS security testbed for virtual or physical labs	cybersecurity
+1qqyiqp	Best practices for SIEM detection rules maintenance?	cybersecurity
+1qqwjkc	31.4 Terabits Per Second: The Night the Internet Blinked	cybersecurity
+1qqw79q	Does anyone else feel like security and compliance get messy because nothing is clearly defined?	cybersecurity
+1qqs55w	Simple printed signs can hijack self-driving cars and robots	cybersecurity
+1qqp85c	Cybersecurity experts warn of rising ghost tapping scam targeting credit cards, digital wallets	cybersecurity
+1qqo5p5	Question: Why do we never know about these breaches until months later?	cybersecurity
+1qqmqvz	Malicious Email Protection: Google Email Security or Abnormal?	cybersecurity
+1qqlohq	Is there any way to test USB drives for safety before using them?	cybersecurity
+1qql75y	So what certs or education can I pursue that revolves around anti-tamper for cyber-physical systems e.g. air vehicles	cybersecurity
+1qql3h3	Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT	cybersecurity
+1qqkliw	County pays $600,000 to pentesters it arrested for assessing courthouse security	cybersecurity
+1qqjda6	Free Cybersecurity Training	cybersecurity
+1qqj8pv	If autonomous LLM agents run multi-step internal reasoning loops, what’s the security model for that part of the system?	cybersecurity
+1qqiozv	How are you identifying unmanaged or unknown software in your environment?	cybersecurity
+1qqhvat	BIOS no longer updated/"old" laptop	cybersecurity
+1qqgjza	How good is Huntress out of the box?	cybersecurity
+1qqgfpi	Basic PS ,bash and C reading skills	cybersecurity
+1qqfr2w	SOC 2 auditor question	cybersecurity
+1qqe0fx	Riot Vanguard question	cybersecurity
+1qqcz3l	Companies You Didn’t Expect to Have Remote Cybersecurity Jobs	cybersecurity
+1qqc7lj	I keep getting Microsoft MFA prompts even with changed password	cybersecurity
+1qqbkx2	U.S. Cybersecurity Leader’s AI Misstep Sparks Internal Review After Sensitive Files Land in Public ChatGPT	cybersecurity
+1qqbbif	Has Anyone Done an Assessment on ChatGPT?	cybersecurity
+1qqaobk	Rules fail at the prompt, succeed at the boundary | Why the first AI-orchestrated espionage campaign changes the agent security conversation	cybersecurity
+1qqa8ui	I heard the job market was not looking too good especially for SOC	cybersecurity
+1qq7v9e	BTLO or Cyberdefenders	cybersecurity
+1qq7n24	which takes least effort to fix a known vulnerable component? upgrade to a higher safer version or applying specific security patch only	cybersecurity
+1qq7eny	Building a Hactivist Monitoring Tool, Need Suggestion on what would be Cool	cybersecurity
+1qq74jo	Linux Blue Team – Critical Consistency Framework	cybersecurity
+1qq6vkc	Best company to work in PH?	cybersecurity
+1qq64o0	Unmasking GSRAT in North Korea-linked APT operation	cybersecurity
+1qq5ow7	Does CWSE from hackviser worth it ?	cybersecurity
+1qq5bjy	One-click RCE on Clawd/Moltbot in 2 hours with an AI Hacking Agent	cybersecurity
+1qq4xi2	Won a 100% off APIsec ACP exam voucher in a hackathon — advice?	cybersecurity
+1qq4r1k	Help with university assignment	cybersecurity
+1qq4lsd	Fake dating app used as lure in targeted spyware campaign	cybersecurity
+1qq4e2c	Looking for a practical ISO/IEC 27001 learning platform	cybersecurity
+1qq413x	What to do when US CERT ignore vulnerability report for 1.5 years ?	cybersecurity
+1qq39nn	Inside the IPIDEA residential proxy network disrupted by Google	cybersecurity
+1qq2x8h	Hands on course for AI & DevSecOps	cybersecurity
+1qq20ya	GRC professionals: what do resources keep getting wrong?	cybersecurity
+1qq1der	what's more marketable, red teaming or blue teaming	cybersecurity
+1qq187f	Implementing ISO27001 and CMMC 2	cybersecurity
+1qq0dgq	Courses and training for a post-entry level cybersec employee :)	cybersecurity
+1qq08hy	Is TryHackMe Premium monthly worth it for someone who is trying to learn about cyber security for the first time?	cybersecurity
+1qq005j	Detecting Clawdbot usage in the enterprise	cybersecurity
+1qpyr4e	A guide to build malicious (Python) code classifier	cybersecurity
+1qpxtrk	Developing configuration standards	cybersecurity
+1qpxtb4	I applied to a cybersecurity job and for the next step they require me to pay for a membership…	cybersecurity
+1qpx93y	Practitioner question: where does automation actually help in DFIR triage?	cybersecurity
+1qpx0xt	After an incident/claim, what evidence gets questioned months later?	cybersecurity
+1qpv3my	Wesbites or Sources for free Where I can check vulnerabilities that are exploited or has a PoC?	cybersecurity
+1qpucil	M&A cyber due diligence	cybersecurity
+1qpqcrr	Why do people say that traditional email is not secure?	cybersecurity
+1qpp4jd	Do security teams realistically have time to monitor honeypots?	cybersecurity
+1qpodsh	Arbitrary Writes High-Severity Vulnerabilities Discovered in Incus VM	cybersecurity
+1qpnjjw	How to permanently block websites on Android	cybersecurity
+1qpniys	Help - Going from Information Security Manager to Head of	cybersecurity
+1qpncbg	Made an open source tool to query EU regulations (DORA, NIS2, GDPR) from AI assistants	cybersecurity
+1qpn4ou	AKIRA offline encryption?	cybersecurity
+1qpmfxh	Has anyone here actually started preparing for the EU CRA (Cyber Resilience Act yet)?	cybersecurity
+1qpmb8t	When should autonomous defence be allowed to act without human approval?	cybersecurity
+1qpkpvb	Anyone else struggle to keep SOC 2 tools actually useful after setup?	cybersecurity
+1qpkhl7	Created Awesome AppSec Interview - prep guide	cybersecurity
+1qpinj6	Careers in Cybersecurity	cybersecurity
+1qphnym	Vibe Coding - Recommended App (with extended free trial)	cybersecurity
+1qphmky	Staying motivated while working?	cybersecurity
+1qpguch	How are you using AI in malware analysis and incident response?	cybersecurity
+1qpgsr2	Price check - Crowdstrike Complete	cybersecurity
+1qpgp5g	The cybercrime forum Ramp4u, where ransomware groups recruited affiliates and sponsored the forum, has been seized by the FBI.	cybersecurity
+1qpgk8p	What to do at Conferences?	cybersecurity
+1qpg995	blue team certification	cybersecurity
+1qpfa8r	Update: Improvements to Lunar based on community feedback (looking for more)	cybersecurity
+1qpf7rj	what gives better practical experience, tryhackme or hackthebox?	cybersecurity
+1qpf588	Thanking about moving from Senior Cybersecurity Engineer to Project Manager/Scrum Master — looking for advice	cybersecurity
+1qpf2p2	Cybersecurity conferences in Europe	cybersecurity
+1qpe9fk	People who work in HITRUST, is there any source where I can get to know about MyCSF	cybersecurity
+1qpdg6w	Attack Against Poland's Grid Disrupted Communication Devices at About 30 Sites	cybersecurity
+1qpd1sy	Asking for a raise for the first time.	cybersecurity
+1qpck17	Administrative FortiCloud SSO authentication bypass	cybersecurity
+1qpcau6	Alternate Solution to Perception Point	cybersecurity
+1qpc4iq	Looking to Leave SOC	cybersecurity
+1qpbyou	Realistically, can login cookies be stolen through MITM attacks?	cybersecurity
+1qpbhtf	Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation	cybersecurity
+1qpbcaf	SOC Analyst (1 yr exp) looking to pivot to Pentesting.	cybersecurity
+1qpb7hh	Stanley — A $6,000 Russian Malware Toolkit with Chrome Web Store Guarantee	cybersecurity
+1qparjv	is opswat academy legit???	cybersecurity
+1qpa7ki	GPU clusters are actively exploited at-scale for crypto mining	cybersecurity
+1qpa7k9	Why Your Post-Quantum Cryptography Strategy Must Start Now	cybersecurity
+1qp9mi4	17% of European Retail web servers have exposed version numbers, new report finds	cybersecurity
+1qp80at	Preventing Duplicate On-Demand Scans per Host - crowdstrike workflow	cybersecurity
+1qp7xd6	What’s your Steganography decoding process?	cybersecurity
+1qp79pp	Where are all the cybersecurity jobs everyone talks about?	cybersecurity
+1qp6yua	Vibe-Coded 'Sicarii' Ransomware Can't Be Decrypted	cybersecurity
+1qp6e00	New Microsoft Office zero-day under active attack	cybersecurity
+1qp66ll	Which Microsoft Office components (document parser, embedded objects, or macro engine) are the most likely attack surface for CVE-2026-21509 based on historical zero-day patterns?	cybersecurity
+1qp60e1	WhatsApp's Latest Privacy Protection: Strict Account Settings	cybersecurity
+1qp5zg5	Erasmus foreign experience	cybersecurity
+1qp5e2p	Warning: Fake Recruiters!	cybersecurity
+1qp5bao	High-Severity Remote Code Execution Vulnerability Patched in OpenSSL	cybersecurity
+1qp4xyc	BYOD in a Small–Mid Org: How Do You Structure IT, Security, and Support	cybersecurity
+1qp4u8k	Google + CompTIA Security+	cybersecurity
+1qp3v6o	74.8% of AI agent attacks we detected this week were cybersecurity-related (malware gen, exploit dev) - breakdown inside	cybersecurity
+1qp3rhp	Email Reuse From Banned Accounts — Bug or Intended Design?	cybersecurity
+1qp3kg5	OpenSSL Security Advisory: Improper validation of PBMAC1 parameters in PKCS#12 MAC verification	cybersecurity
+1qp2qa7	Fortinet starts patching exploited FortiCloud SSO zero-day (CVE-2026-24858)	cybersecurity
+1qp2jzo	Passed HTB CDSA, thinking on what to take for next Blue Team cert (CCD vs BTL1)	cybersecurity
+1qp2jgs	Detection & Response Analyst Position	cybersecurity
+1qp1czl	How do you handle internal developers?	cybersecurity
+1qp1abr	Chat GPT Temp chats moved to regular chat history	cybersecurity
+1qoznur	Building an agentic DFIR platform - looking for feedback	cybersecurity
+1qoxkpn	Proving my SSH CA's Rust rewrite makes identical decisions	cybersecurity
+1qoufgy	Do automated pentesting tools actually replace manual tests for auditors?	cybersecurity
+1qoteui	Darktrace boss Jill Popelka booted out by the board	cybersecurity
+1qot10w	Trump’s acting cyber chief uploaded sensitive files into a public version of ChatGPT	cybersecurity
+1qorpfu	CCSP vs CISSP to break into cloud security roles?	cybersecurity
+1qorecs	Vulnerability Research on IDIS Video Platform	cybersecurity
+1qora73	Formation cybersécurité a l'armée française bonne idée ?	cybersecurity
+1qoqtfo	Interview Tomorrow, First Real InfoSec Role, Looking for Advice (Entry Level)	cybersecurity
+1qoqosf	Left Cyber GRC field?	cybersecurity
+1qoptfb	FedRAMP in SAAS purchase process for government?	cybersecurity
+1qopn3z	Safeguarding sources and sensitive information in the event of a raid	cybersecurity
+1qop4k8	Google plans to use your emails and photos to personalize AI. Here’s what that means.	cybersecurity
+1qoo2me	SoundCloud data breach impacts 29.8 million accounts	cybersecurity
+1qonalp	Vulnerability Scans Enrichment/Mapper.	cybersecurity
+1qon6no	What are you doing to govern MCP server connections?	cybersecurity
+1qomv2p	Why code indexing matters for AI security tools	cybersecurity
+1qolmpf	Trust Failure with End-to-End Encryption	cybersecurity
+1qoky60	New AI pentester agent beating xbow	cybersecurity
+1qok9wd	Thoughts on Quantum Computing in Cybersecurity?	cybersecurity
+1qoj5u2	My First Python Security Tool: Password Strength Analyzer – Feedback Welcome!	cybersecurity
+1qoihsk	why does it seem like cybersec is universally hated	cybersecurity
+1qoicab	Do we only validate detections after something breaks in the SOC?	cybersecurity
+1qohns0	Chinese Hackers Reportedly Gain 'Full Access' to UK Telecoms in Global Cyber-Espionage Campaign	cybersecurity
+1qog1zw	New Architecture, New Risks: One-Click to Pwn IDIS IP Cameras	cybersecurity
+1qoffk8	AI deepfakes are getting too real. How do we ensure our privacy won't get breached?	cybersecurity
+1qof0gn	Microsoft Defender for Endpoints P1 vs P2	cybersecurity
+1qodxkm	Let's Encrypt is moving to 45-day certificates before everyone else	cybersecurity
+1qodiu5	Career Decision Perspective	cybersecurity
+1qod430	Climbing the ladder without a CISSP	cybersecurity
+1qoco9a	Looking for juicy siem rules for phishing that would work	cybersecurity
+1qoc8ze	Data leak consequences, are they fixable?	cybersecurity
+1qobt2k	From Helper to Adversary: The Dual-Use Risks of AI Canvases	cybersecurity
+1qobrl2	Lawsuit Claims Meta Can See WhatsApp Chats in Breach of Privacy	cybersecurity
+1qobl47	New to cyber security consulting - is this normal or am I in a bad consultancy?	cybersecurity
+1qobg42	I'm discovering OSINT by self-analyzing my public profiles	cybersecurity
+1qob8bv	23,000 alerts triaged in 2 years	cybersecurity
+1qoalok	Praca w Cyberbezpieczeństwie	cybersecurity
+1qoa8gi	Clawdbot and vibe-coded apps share the same flaw: someone else decides when you get hacked	cybersecurity
+1qoa4ly	WHICH CERTIFICATION TO CHOOSE FOR DFIR?	cybersecurity
+1qo9yoi	How to check external USB storage devices globally?	cybersecurity
+1qo9wpc	Your Password Needs To Be 25 Characters or Longer Due to AI and Quantum Attacks	cybersecurity
+1qo929t	Google AI Search can now access Gmail and Photos: what you should know	cybersecurity
+1qo8oq5	THE INVERTED PANOPTICON: Beijing Weaponized the West’s Own Wiretap Infrastructure to Execute the Greatest Intelligence Coup Since Cambridge Five	cybersecurity
+1qo8g3g	Putting the biggest source of ransomware group TTPs to work	cybersecurity
+1qo50se	Looking for an endpoint security solution that doesn’t bog down client devices	cybersecurity
+1qo35mo	Need advice from the pros	cybersecurity
+1qo35j7	Changing careers at 29, thinking of breaking into the Cybersecurity field.	cybersecurity
+1qnx18p	SOC or Pentesting as a cybersecurity new grad - I actually have offers	cybersecurity
+1qnvhhj	Going to my first Networking IT event, what do I wear and any advice?	cybersecurity
+1qnuqpl	With the cutbacks at NIST and the MITRE contract not being renewed, has the responsibility shifted in a large way to private businesses securing their own environments?	cybersecurity
+1qnuo7z	Remote USB surface attacks	cybersecurity
+1qntnix	Exploring a career change	cybersecurity
+1qntbda	Vulnerability Summary for the Week of January 19, 2026 | CISA	cybersecurity
+1qntb11	Security Building (Cameras) with Enterprise Solution or Ring cameras?	cybersecurity
+1qnt8qe	SANs Cybersecurity Conference	cybersecurity
+1qnso0a	Cyber Certifications Advice	cybersecurity
+1qnrkxi	An Open Source Tool to Unravel UEFI and its Vulnerabilities	cybersecurity
+1qnrehm	Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission	cybersecurity
+1qnqtn8	U.S. Cyber Challenge 2012 - 2014 (Cyber Quest)	cybersecurity
+1qnqrzr	Unconventional Security Awareness Training	cybersecurity
+1qnpqv5	DEv team interview for Appsec role	cybersecurity
+1qnp4bc	Certifications for forensic analysis?	cybersecurity
+1qno9q4	The Intelligence Frontier for Security Teams: How Shadow AI and Agentic Systems Are Redefining Enterprise Risk	cybersecurity
+1qnnju6	NIST is rethinking its role in analyzing software vulnerabilities	cybersecurity
+1qnn8fj	ClawdBot: The New Primary Target for Infostealers in the AI Era	cybersecurity
+1qnmrvk	What is going on with CVEs?	cybersecurity
+1qnmipz	free | no install | please roast - the tool maps cyber regs (US, EU...) to your tech stack	cybersecurity
+1qnljc8	Looking for feedback on a student project about honeypots & attack analysis	cybersecurity
+1qnk877	Are fake documents a cyber security problem?	cybersecurity
+1qnk3us	Alerts: Excessive NXDOMAIN Dns queries has been detected from client IP x.x.x.x	cybersecurity
+1qnjtsm	Online pentest for fast-moving dev teams. Myth or reality?	cybersecurity
+1qnj7sc	Thoughts on SentinelOne as MDR provider.	cybersecurity
+1qnizh5	ISC2 Certified in cybersecurity or Comptia's security +, what's better in the field?	cybersecurity
+1qnis3a	AMA: I had my budget cut and still reduced risk. Ask Me Anything	cybersecurity
+1qni1s1	Zyxel Router Vulnerability Research	cybersecurity
+1qnhwvv	OracleGPT: Thought Experiment on an AI Powered Executive	cybersecurity
+1qnhtbt	Do you need a physical jailbroken iPhone for iOS app pentesting?	cybersecurity
+1qnhpza	Interesting Cybersecurity News of the Week Summarized 26.01.2026	cybersecurity
+1qnh8gl	Sec+ & eJPT + DEFCON - any recommendation?	cybersecurity
+1qngeb7	AI Finds Vulnerability Chain Leading to Account Takeover and Leaked Bookings	cybersecurity
+1qngaok	Remove these malicious Chrome extensions now to protect your data	cybersecurity
+1qng974	do hackers not use network manager?	cybersecurity
+1qng825	Application Control tools	cybersecurity
+1qnflug	Preparing for AppSec interview - they want me to review code. How do I not embarrass myself?	cybersecurity
+1qnd3rk	Using CSS to warn users from AitM Phishing attempts	cybersecurity
+1qnbu54	ESET Research: Sandworm behind cyberattack on Poland’s power grid in late 2025	cybersecurity
+1qnbtt7	One-time SMS links that never expire can expose personal data for years	cybersecurity
+1qnalrd	Re-shifting perspective, how to	cybersecurity
+1qn8a76	Duda técnica: ¿"Have I Been Pwned" confirma que una cuenta está hackeada?	cybersecurity
+1qn6t4k	Where to for Pentesters?	cybersecurity
+1qn3lof	Do automated pentesting tools actually replace manual tests for auditors?	cybersecurity
+1qn3iml	I accidentally created the biggest free ransomware group TTP database possible	cybersecurity
+1qn2ak6	Can we talk about documentation?	cybersecurity
+1qn1tv8	Cybersecurity Assignment Help - Short Written Interview!	cybersecurity
+1qn042p	In defense of the .zip TLD	cybersecurity
+1qmzzko	Mentorship Monday - Post All Career, Education and Job questions here!	cybersecurity
+1qmx7lp	Steps to enter in cybersecurity after 8 years of manual testing in automotive	cybersecurity
+1qmvczd	Bypass Windows Password	cybersecurity
+1qmt8ee	A secure and private journaling/diary app ?	cybersecurity
+1qmq4iv	Computer forensic specialists, what does your day look like?	cybersecurity
+1qmpiju	I built selinux-policy-auditor - A high precision tool designed to identify and prune overly permissive SELinux policies	cybersecurity
+1qmox0v	From curiosity to practice: understanding the WiFi hacking process	cybersecurity
+1qmlkjk	Security architecture diagrams	cybersecurity
+1qmkx8n	BREAKMEIFYOUCAN! - Exploiting Keyspace Reduction and Relay Attacks in 3DES and AES-protected NFC Technologies	cybersecurity
+1qmkceo	CISOs/Security pros: Would browser-based AI processing solve your compliance concerns?	cybersecurity
+1qmi1o5	What should I learn before starting a SOC analyst	cybersecurity
+1qmhs97	Can you recommend me good books to be better in my current role?	cybersecurity
+1qmhqnx	First job in Cyber no experience how do I keep it/do well	cybersecurity
+1qmhhwe	Implementing NCSC import patterns on a budget	cybersecurity
+1qmgzko	Unpopular Opinion: Companies that offer "Swag Only" or "Hall of Fame" for critical vulnerabilities should be publicly shamed, not thanked.	cybersecurity
+1qmgiw7	Cisco confirms active exploitation of new Zero-Day in HTTP web services (CVE-2026-20045)	cybersecurity
+1qmgck5	List of security-focused GRC resources	cybersecurity
+1qmg9l5	AI-Native Application Security Platform	cybersecurity
+1qmfslt	Nike Probes Potential Breach After Threat From Hacking Group	cybersecurity
+1qmfmxb	What made you work in the security field?	cybersecurity
+1qmf3on	Machine Learning for Security Anomaly Detection – practical or just hype?	cybersecurity
+1qmet0p	Exploiting the Feature Factory	cybersecurity
+1qme03t	CTO at NCSC Summary: week ending January 25th	cybersecurity
+1qmdq0x	What happens when AI isn’t just smart but has agency? From AI trojans to context poisoning and messaging-based remote access, the threat landscape shifts dramatically. Dive into the dangers of agentic AI..	cybersecurity
+1qmafle	Switzerland Pentester	cybersecurity
+1qm9vv7	Fellow malware reverse engineers - what got you into this job from an job seekers perspective?	cybersecurity
+1qm5xib	GitHub - dereeqw/BlackBerryC2: Encrypted command‑and‑control (C2) research framework for cybersecurity education, red team labs, and secure client‑server communication experiments.	cybersecurity
+1qm4ua4	ShinyHunters claims Okta customer breaches, leaks data	cybersecurity
+1qm2qjm	CISA to cease participation at RSAC conference after Biden-era cyber leader (Easterly) named CEO	cybersecurity
+1qm20p1	Consulting better or full time job?	cybersecurity
+1qm1ov4	Question about Synthient Credential Stuffing Threat Data	cybersecurity
+1qlzwaj	Is there a cert that teaches people how to assist a company to be SOC2 Type 1, 2, and ISO27001 compliant	cybersecurity
+1qly9cy	Would this look bad to a recruiter?	cybersecurity
+1qly3nd	Which cyberattack do you think changed the world the most?	cybersecurity
+1qlwsen	Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles	cybersecurity
+1qlwoqv	CISA confirms active exploitation of four enterprise software bugs	cybersecurity
+1qlwnmj	DORA Foundation - trainings	cybersecurity
+1qlucz4	RustyPP: A C++20 library and Clang tool to enforce Rust-like safety and mutability.	cybersecurity
+1qltt0l	Improving WireGuard security with Quantum Key Distribution	cybersecurity
+1qlrfav	GitHub - flatmarstheory/Wi-Fi-Intrusion-Detection-System: Raspberry Pi Pico W based Wi-Fi Intrusion Detection System (WIDS)	cybersecurity
+1qlr2yp	Cyberattack Targeting Poland’s Energy Grid Used a Wiper	cybersecurity
+1qlqkgm	How to stop bot abuse on a Bun Server (solo dev help)	cybersecurity
+1qlp5it	What is the general consensus on Elastic?	cybersecurity
+1qlod6v	Check Point`s Position in Cyber Market	cybersecurity
+1qloc8m	Finally got an interview!! YES	cybersecurity
+1qln391	Well regarded, Free, Australian recognised Certificates?	cybersecurity
+1qllqm9	Remote Invite Scams are on the rise in America	cybersecurity
+1qlldgv	Does Relevant Degree is Essential for Cyber/InfoSec Jobs?	cybersecurity
+1qll9zk	Trying to create a owasp local chapter	cybersecurity
+1qlk9y4	Framework & operating model	cybersecurity
+1qlfzvn	As a business, should you delay patching windows?	cybersecurity
+1qlfee2	149 Million Usernames and Passwords Exposed by Unsecured Database	cybersecurity
+1qldxon	Discipline issue? Or not the right field?	cybersecurity
+1qldka5	Need to know what my best option is. Is a career in cybersecurity imminently viable with what I have?	cybersecurity
+1qlakta	Presenting the ADAPT framework: Investigation and Analysis without Paralysis	cybersecurity
+1ql8r2v	Trojan Detection in COTS Hardware via Statistical Activation of Microarchitectural Events	cybersecurity
+1ql8p2o	Winona County, Minnesota, investigates ransomware incident on network	cybersecurity
+1ql6o17	How can I help out my friend studying Cyber Security?	cybersecurity
+1ql5l1a	Sam Altman on Upcoming Cybersecurity Capabilities of AI	cybersecurity
+1ql4vw3	If I disable Core Isolation and Memory Integrity, will Windows become vulnerable?	cybersecurity
+1ql1nf1	Why are certifications so globally praised in cybersecurity but not in other development fields?	cybersecurity
+1ql0t6a	pgEdge/pgedge-anonymizer: An anonymizer tool for replacing PII and similar data in PostgreSQL dev/test databases copied from production	cybersecurity
+1ql0poh	Y2K38 isn't a future problem and can be exploited today.	cybersecurity
+1ql0coe	UEBA Tool Recommendations?	cybersecurity
+1qkzm04	Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects' laptops: Reports	cybersecurity
+1qkzejz	A solution for OSS vulnerability risks	cybersecurity
+1qkyv4o	A Simple Shopify Open Redirect I Almost Ignored	cybersecurity
+1qkxq5k	Under Armour says it's 'aware' of data breach claims after 72M customer records were posted online | TechCrunch	cybersecurity
+1qkx0kd	Electronic Warfare in cybersecurity space	cybersecurity
+1qkx0g0	Tenable Vulnerability Management Integration with Jira	cybersecurity
+1qkvh3c	Spellcheck? More like Shell-Check: Malicious Python Spellchecker delivers RAT (Remote Access Trojan)	cybersecurity
+1qkvgxa	Web developer from Brazil looking for purpose: is transitioning to cybersecurity/white hat a realistic path?	cybersecurity
+1qkvfpd	Wiz - AI-Powered Pentest Assistant (Open Source)	cybersecurity
+1qkv9dk	I built a "Forensic Economics" prototype in Colab that catches groomers/spies without reading their chats. Would your org actually let me run this?	cybersecurity
+1qktx2l	Our Big 4 quality has dropped off a cliff. Is it even possible to get a technical expert from them anymore?	cybersecurity
+1qktods	Thoughts on "impersonate user" feature that platforms implement for debug purposes?	cybersecurity
+1qksg9d	Elastic SIEM and EDR	cybersecurity
+1qkrv0y	Building Effective and Autonomous Wallboards	cybersecurity
+1qkr5tf	The best advice for people who want to get into cyber that nobody wants to take	cybersecurity
+1qkq9v2	performing a risk assessment for your organization	cybersecurity
+1qkntnl	Is Robokiller (spam blocker) worth it?	cybersecurity
+1qknfvu	Replacement for securityheaders.com API	cybersecurity
+1qkn8rk	mTLS with hosting parties who won't accept private certificates for API requests	cybersecurity
+1qkmbmp	Tired of copy-pasting IOCs during SOC shifts? I built a browser extension that helps	cybersecurity
+1qkkz55	Local AI agent security lab for testing LLM vulnerabilities (open source)	cybersecurity
+1qkkv5i	Career switch into Red Team Cybersecurity – TryHackMe vs Udemy?	cybersecurity
+1qkkkin	The weekly Cyber Quiz is Back this week	cybersecurity
+1qkk8yr	Attackers with decompilers strike again (SmarterTools SmarterMail WT-2026-0001 Auth Bypass)	cybersecurity
+1qkk135	Should I move back to my previous Helpdesk role after struggling in a Tech Risk/Controls job?	cybersecurity
+1qkjyy7	A practical comparison of free credential and breach monitoring services for companies. Covers breach awareness tools, infostealer-driven exposure detection, data resolution, latency, and operational tradeoffs, with a focus on what teams can realistically use at no cost.	cybersecurity
+1qkjq0h	New Osiris Ransomware Strain Uses POORTRY Driver to Evade Detection	cybersecurity
+1qkiqhv	Where do we draw the finish line?	cybersecurity
+1qkif3r	I want to teach a class or two in cyber security. How hard is this?	cybersecurity
+1qkglr0	I reverse-engineered HILO: Google Play & Apple App Store host $50M fraud despite 78 reports	cybersecurity
+1qkf17j	Curl ending bug bounty program after flood of AI slop reports	cybersecurity
+1qkeyd7	Prepping refurbished Windows 11 Pro PC for Cybersecurity training, OSINT, etc.	cybersecurity
+1qkaeft	My first extension to assist SOC analysts, IR and threat hunters	cybersecurity
+1qk9y5o	tired of getting rejections from internships	cybersecurity
+1qk8f3g	Is anyone else having issues with Google’s VRP team?	cybersecurity
+1qk7zwi	IT manager demanding access to our email inboxes before we leave	cybersecurity
+1qk7m8g	SmarterMail auth bypass flaw now exploited to hijack admin accounts	cybersecurity
+1qk77la	Wiz's Bug Bounty Masterclass	cybersecurity
+1qk6nl6	Reverse engineering Lyft bikes for fun (and profit?)	cybersecurity
+1qk65om	A Deep Dive into SIEM, SQL, and the NIST Incident Response Life Cycle	cybersecurity
+1qk4yf4	Anyone else feel like they should understand what they’re seeing… but don’t?	cybersecurity
+1qk4g9k	Malicious browser extension intel src	cybersecurity
+1qk453f	Need help choosing (trend micro vs CrowdStrike Vs FieldEffect)	cybersecurity
+1qk3xcq	ISO 27001 for SMB: Why blindly trusting GRC tool templates «almost» caused a non-conformity	cybersecurity
+1qk3vax	Is there any privacy left?	cybersecurity
+1qk20vl	Work life balance and stress for network engineering VS pen testing	cybersecurity
+1qk1fm3	Employer will pay for certs -- what should I pursue?	cybersecurity
+1qk1ek7	AI coding assistants are introducing security flaws, I built a free tool to catch them	cybersecurity
+1qk19bb	Resources for Flutter Security&Pentesting ?	cybersecurity
+1qk112t	What's your favorite cybersecurity maxim?	cybersecurity
+1qjym3i	[Security] Supply Chain Vulnerability in claude-flow npm package - Remote AI Behavior Injection via IPFS	cybersecurity
+1qjy7do	Critical Chainlit AI vulnerability lets attackers take over cloud environments	cybersecurity
+1qjy10g	Looking for reviews of certain company	cybersecurity
+1qjwoei	Impostor syndorme & requesting help with learning materials to make it go away	cybersecurity
+1qjwen6	The thin line between saving a company and funding a crime	cybersecurity
+1qjvq71	How are you hardening environments against remote control tool abuse (or perceived abuse)?	cybersecurity
+1qjvitw	Integrating Qr codes in a document for integrity and authentication	cybersecurity
+1qjvi3d	Fortigate TFTPD Flash Firmware	cybersecurity
+1qjv8pl	questions for paths as a CS student	cybersecurity
+1qjv4eh	Are we evaluating AI security tools in a way that actually reflects real-world attacks?	cybersecurity
+1qjv1ar	IAM to OffSec Interview?	cybersecurity
+1qjuzl1	High-Risk Authentication Bypass Flaw Found in Telnetd	cybersecurity
+1qju1t6	Announcing wostr-terminal [a new real world map based OSINT lookup utility]	cybersecurity
+1qjtwlh	Typical day as a malware analyst	cybersecurity
+1qjtgwz	Merging overlapping port scan reports into a single attack surface view (open-source)	cybersecurity
+1qjtebg	Advice: what should a CEO cover in his own blog post on the report based on his own company?	cybersecurity
+1qjsyub	AI in security workflows. How are you using AI in security today?	cybersecurity
+1qjs70x	Solo AppSec engineer - what does your actual Year 1 plan look like?	cybersecurity
+1qjrxl4	European Space Agency's cybersecurity in freefall as yet another breach exposes spacecraft and mission data	cybersecurity
+1qjrwb9	BlueNoroff APT: The Financial Cybercrime Arm of Lazarus	cybersecurity
+1qjr69p	Newly launched game Arknights Endfield, players who used Paypal have had their wallets emptied, due to unknown exploit, currently under investigation.	cybersecurity
+1qjqyg9	Why does the IT/cybersecurity world like IT certifications so much?	cybersecurity
+1qjqpe3	Struggling With Active Directory – Need a Structured Learning Path	cybersecurity
+1qjq6kg	Whats your take about the SBOM deadlines that are coming up?	cybersecurity
+1qjpck3	Feedback Wanted: Schema-Aware MCP Fuzzer	cybersecurity
+1qjon2p	This incident is a good reminder that abuse does not always come from exploiting code vulnerabilities	cybersecurity
+1qjoler	Zero Day Initiative — Pwn2Own Automotive 2026 - Day One Results	cybersecurity
+1qjogl0	Joint report outlines practical approach to prioritising post-quantum cryptography migration in financial services – Framework supports early action and long-term planning as quantum computing challenges existing encryption methods	cybersecurity
+1r38ylq	Capture the Flag (CTF) AWS/SANS	netsec
+1r35ydb	Critical RCE Vulnerability in Unstructured.io (CVE-2025–64712) - CVSS 9.8	netsec
+1r2q683	YAML Merge Tags and More Parser Differentials	netsec
+1r2puq1	TURN Security Threats: A Hacker's View	netsec
+1r27okq	Securing Digital Assets in an Evolving Threat Landscape — analysis of DPRK/Lazarus operations, DaaS proliferation, and defense-in-depth architecture [PDF]	netsec
+1r1bswg	I let Claude Code with 150+ offensive security MCP tools loose on my homelab	netsec
+1r1b97g	Confused Deputy Problem – How to Hack Cloud Integrations	netsec
+1r1b0v8	No Legs, No Problem: Dumping BGA MCP NAND Flash	netsec
+1r17r76	LOTUSLITE: Targeted espionage leveraging geopolitical themes	netsec
+1r14rlh	Adbleed: partially de-anonymizing VPN users with adblock filter lists	netsec
+1r11yfo	We hid backdoors in binaries — Opus 4.6 found 49% of them	netsec
+1r0xo54	Http11Probe - Probe for Http 1.1 compliance	netsec
+1r0h42m	Augustus: Open Source LLM Prompt Injection Tool	netsec
+1r05rb8	CVE-2026-2103 - Infor Syteline ERP - Keys Included: No Assembly Required	netsec
+1r01the	On the risk of destructive bricking attacks against OT devices (part 1)	netsec
+1qzzxv2	Open Security Architecture - 15 new security patterns with NIST 800-53 mappings (free, CC BY-SA 4.0)	netsec
+1qzwqa7	klint - Linux Kernel Security Scanner	netsec
+1qzku4d	Roundcube Webmail: SVG feImage bypasses image blocking to track email opens	netsec
+1qza4lh	Defense Evasion: The Service Run Failed Successfully	netsec
+1qymqx8	Cloud Deception Management Platform (Open-source Cloud Canaries)	netsec
+1qyl3yf	New OSS secret scanner: Kingfisher (Rust) validates exposed creds + maps permissions	netsec
+1qyfxlw	trappsec: open source framework for API deception	netsec
+1qy0mjx	crypto-scanner: Open-source CLI tool to find quantum-vulnerable cryptography in your codebase	netsec
+1qxm75b	Tool: AST-based security scanner for AI-generated code (MCP server)	netsec
+1qxdzcu	The RCE that AMD won't fix!	netsec
+1qxdxjy	Experiment demonstrates Al-generated identities bypassing KYC-based verification systems	netsec
+1qxawcm	Hacking a cheap Wi-Fi toy drone	netsec
+1qwtzyn	Django SQL Injection in RasterField lookup (CVE-2026-1207)	netsec
+1qwl1uu	Yara-X + PacketSmith Detection Module	netsec
+1qwgv4v	New CentOS UAF to LPE vulnerability	netsec
+1qweadr	CVE-2025-11730: Remote Code Execution via DDNS configuration in ZYXEL ATP/USG Series (V5.41)	netsec
+1qw4sfa	Recreating uncensored Epstein PDFs from raw encoded attachments... or trying to, anyway	netsec
+1qw2mw8	2026: New N8N RCE Deep Dive into CVE-2026-25049	netsec
+1qvvin8	Kernel-Level Stealthy Observation of TTY Streams	netsec
+1qux2hg	Auditing Outline. Firsthand lessons from comparing manual testing and AI security platforms	netsec
+1quws8d	Fighting AI anomaly false-positives with firejail and proxychains	netsec
+1quu7dk	How LLMs Feed Your RE Habit: Following the Use-After-Free Trail in CLFS	netsec
+1qumhwe	Exploiting CVE-2025-49825 (authentication bypass vulnerability in Teleport)	netsec
+1qu3bgd	WhatsApp Encryption, a Lawsuit, and a Lot of Noise	netsec
+1qtvonw	GatewayToHeaven: Finding a Cross-Tenant Vulnerability in Google Cloud's Apigee	netsec
+1qttj14	AppLocker Rules Abuse	netsec
+1qtq2mm	vr2jb: Pwning the PlayStation VR2 using Sony's hidden recovery mode	netsec
+1qtnr2m	Your Phone Silently Sends GPS to Your Carrier via RRLP/LPP – Here's How the Control Plane Positioning Works	netsec
+1qtif11	Notepad++ Hijacked by State-Sponsored Hackers	netsec
+1qt5wms	1-Click RCE in OpenClaw/Moltbot/ClawdBot	netsec
+1qt4yy1	Comparing different IP Geolocation Provider's Accuracy	netsec
+1qszvjv	r/netsec monthly discussion & tool thread	netsec
+1qr9war	Someone Knows Bash Far Too Well, And We Love It (Ivanti EPMM Pre-Auth RCEs CVE-2026-1281 & CVE-2026-1340) - watchTowr Labs	netsec
+1qr7g3t	How We Exploited Qodo: From a PR Comment to RCE and an AWS Admin Key - Leaked Twice	netsec
+1qqot81	Object-capability SQL sandboxing for LLM agents — $1K CTF bounty to break it	netsec
+1qqj071	Tool release: CVE Alert – targeted CVE email alerts by vendor/product	netsec
+1qq464p	Gakido - CRLF Injection	netsec
+1qprn85	Tycoon 2FA phishing campaign abusing *.contractors domains for Gmail & Microsoft 365 credential harvesting	netsec
+1qphmvg	Limits of static guarantees under adaptive adversaries (G-CTR experience)	netsec
+1qpgpd4	CVE-2025-40551: SolarWinds WebHelpDesk RCE Deep-Dive and Indicators of Compromise	netsec
+1qpfcpd	Fun RCE in Command & Conquer: Generals	netsec
+1qp3rpz	[Research] Analysis of 74,636 AI Agent Interactions: 37.8% Contained Attack Attempts - New "Inter-Agent Attack" Category Emerges	netsec
+1qp0n60	Corrupting the Hive Mind: Persistence Through Forgotten Windows Internals	netsec
+1qoplqw	Safeguarding sources and sensitive information in the event of a raid	netsec
+1qonkwp	OpenSSL January 2026 Security Update: CMS and PKCS#12 Buffer Overflows	netsec
+1qns6o2	Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission	netsec
+1qnnddx	Bypassing Windows Administrator Protection	netsec
+1qnh5qq	Blind Boolean-Based Prompt Injection	netsec
+1qng5ag	After reporting vulnerabilities found in MDT, Microsoft chose to retire the service rather than fix the issues... Admins should follow the defensive recommendations to mitigate the issues if they choose to continue using the software or can’t migrate to a different solution.	netsec
+1qncvtn	"Open sesame": Critical vulnerabilities in dormakaba physical access control system enable unlocking arbitrary doors	netsec
+1qn22ig	/r/netsec's Q1 2026 Information Security Hiring Thread	netsec
+1qmukkb	địt mẹ mày morphisec: When Malware Authors Taunt Security Researchers	netsec
+1qmskbe	Certificate Transparency as Communication Channel	netsec
+1qmo7qr	cvsweb.openbsd.org fights AI crawler bots by redirecting hotlinking requests to theannoyingsite.com (labelled "Malware" by eero), gets blacklisted by eero, too, for "Phishing & Deception"	netsec
+1qm52ob	BREAKMEIFYOUCAN! - Exploiting Keyspace Reduction and Relay Attacks in 3DES and AES-protected NFC Technologies	netsec
+1qkrmr6	Organized Traffer Gang on the Rise Targeting Web3 Employees and Crypto Holders	netsec
+1qkra8i	Syd - Air-Gapped Red and blueteam	netsec
+1qkpxp7	Arctic Wolf Observes Malicious Configuration Changes On Fortinet FortiGate Devices via SSO Accounts | Arctic Wolf	netsec
