@@ -14,6 +14,7 @@ Two embedding methods are implemented:
 The clustering performance of each method is evaluated using the silhouette score with cosine distance.
 
 2. Dataset
+
 The dataset consists of Reddit posts collected in Lab 5 and stored in a MySQL database.
 Database: reddit_cluster
 Data extraction query:
