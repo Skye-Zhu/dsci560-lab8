@@ -1,0 +1,4 @@
+method,K_bins,w2v_dim,silhouette_cosine
+Word2Vec+BoW(binned),50,100,0.08907061815261841
+Word2Vec+BoW(binned),100,100,0.05960168316960335
+Word2Vec+BoW(binned),200,100,0.029853587970137596
